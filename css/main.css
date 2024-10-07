@@ -31,6 +31,7 @@ header .get-started {
 
 header .get-started:hover {
   background-color: #666ca3;
+  transform: scale(1.1);
 }
 
 main {
@@ -83,6 +84,7 @@ main {
 
 .description .get-started:hover {
   opacity: 50%;
+  transform: scale(1.1);
 }
 
 .course-description img {
@@ -173,4 +175,5 @@ footer .get-started {
 
 footer .get-started:hover {
   opacity: 50%;
+  transform: scale(1.1);
 }
