@@ -26,11 +26,11 @@ header .get-started {
   padding-top: 16px;
   padding-bottom: 16px;
   border-radius: 32px;
-  transition: .2s;
+  transition: 0.2s;
 }
 
 header .get-started:hover {
-  background-color: #666CA3;
+  background-color: #666ca3;
 }
 
 main {
@@ -52,7 +52,7 @@ main {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  width: 50%;
+  width: 45%;
 }
 
 .description-pickup-line {
@@ -78,7 +78,7 @@ main {
   padding-top: 16px;
   padding-bottom: 16px;
   border-radius: 32px;
-  transition: .2s;
+  transition: 0.2s;
 }
 
 .description .get-started:hover {
@@ -90,13 +90,15 @@ main {
   background: linear-gradient(#ff6f48, #f02aa6);
 }
 
-.course-links, .second-course-links {
+.course-links,
+.second-course-links {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
 }
 
-.course-card, .popular-courses {
+.course-card,
+.popular-courses {
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.123);
   margin-right: 22px;
   margin-bottom: 56px;
@@ -113,37 +115,37 @@ main {
 }
 
 .popular-courses p {
-  color: #FFFFFF;
+  color: #ffffff;
   font-size: 32px;
   font-weight: 800;
 }
 
 .course-name {
-  color: #13183F;
+  color: #13183f;
   font-size: 24px;
   font-weight: 800;
 }
 
 .course-info {
-  color: #83869A;
+  color: #83869a;
   font-size: 18px;
   font-weight: 500;
 }
 
 .get-started {
-  color: #F74780;
+  color: #f74780;
   text-decoration: none;
   font-size: 18px;
   font-weight: 700;
-  transition: .2s;
+  transition: 0.2s;
 }
 
 .get-started:hover {
-  color: #FFA7C3;
+  color: #ffa7c3;
 }
 
 footer {
-  background-color: #13183F;
+  background-color: #13183f;
 }
 
 .footer-content {
@@ -157,7 +159,7 @@ footer {
 
 footer .get-started {
   text-decoration: none;
-  background: linear-gradient(#4851FF, #F02AA6);
+  background: linear-gradient(#4851ff, #f02aa6);
   color: #ffffff;
   margin-left: auto;
   width: 168px;
@@ -166,7 +168,7 @@ footer .get-started {
   padding-top: 16px;
   padding-bottom: 16px;
   border-radius: 32px;
-  transition: .2s;
+  transition: 0.2s;
 }
 
 footer .get-started:hover {
